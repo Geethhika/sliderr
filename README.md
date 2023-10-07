@@ -120,14 +120,14 @@ img{
                 <div class="image_container">
 
                     <div class="image active" data-iamge-type="Flower">
-                        <img src="Images/1.jpg">
+                        <img src="https://img.freepik.com/free-photo/purple-osteospermum-daisy-flower_1373-16.jpg?size=626&ext=jpg&uid=R119719380&ga=GA1.2.109696452.1691767165&semt=sph">
                     </div>
 
-                    <div class="image" data-iamge-type="Mountain"><img src="Images/2.jpg"></div>
+                    <div class="image" data-iamge-type="Mountain"><img src="https://img.freepik.com/free-photo/mesmerizing-scenery-green-mountains-with-cloudy-sky-surface_181624-27189.jpg?w=900&t=st=1696700706~exp=1696701306~hmac=3eeb5734da0702d4592981e0bf36e97e3614c13864e6c1684ecc8339d3dc5eaf"></div>
 
-                    <div class="image" data-iamge-type="Fish"><img src="Images/3.jpg"></div>
+                    <div class="image" data-iamge-type="Fish"><img src="https://img.freepik.com/free-photo/beautiful-fish-undersea_23-2150737651.jpg?size=626&ext=jpg&uid=R119719380&ga=GA1.2.109696452.1691767165&semt=sph"></div>
 
-                    <div class="image" data-iamge-type="Dragon-fly"><img src="Images/4.jpg"></div>
+                    <div class="image" data-iamge-type="Dragon-fly"><img src="https://img.freepik.com/free-vector/vector-realistic-gomphus-vulgatissimus-dragonfly-close-up-top-view-isolated-white-background_1284-46438.jpg?size=626&ext=jpg&uid=R119719380&ga=GA1.2.109696452.1691767165&semt=ais"></div>
 
                     <div class="image" data-iamge-type="Nature"><img src="https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=900&t=st=1696693102~exp=1696693702~hmac=be96b3476d7da673c07b5d6e6faed86cce3088051c86e8fce0a60d63f586405a"></div>
                 </div>
